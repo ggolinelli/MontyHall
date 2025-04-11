@@ -1,0 +1,11 @@
+C:\progetti\MontyHall\bin\Debug\MontyHall.exe.config
+C:\progetti\MontyHall\bin\Debug\MontyHall.exe
+C:\progetti\MontyHall\bin\Debug\MontyHall.pdb
+C:\progetti\MontyHall\obj\Debug\MontyHall.csproj.AssemblyReference.cache
+C:\progetti\MontyHall\obj\Debug\MontyHall.csproj.SuggestedBindingRedirects.cache
+C:\progetti\MontyHall\obj\Debug\MontyHall.Form1.resources
+C:\progetti\MontyHall\obj\Debug\MontyHall.Properties.Resources.resources
+C:\progetti\MontyHall\obj\Debug\MontyHall.csproj.GenerateResource.cache
+C:\progetti\MontyHall\obj\Debug\MontyHall.csproj.CoreCompileInputs.cache
+C:\progetti\MontyHall\obj\Debug\MontyHall.exe
+C:\progetti\MontyHall\obj\Debug\MontyHall.pdb
